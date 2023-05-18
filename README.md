@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I am a beginner Front-End Developer with a background in bioengineering. </br>
+✨ I am a beginner Front-End Developer with a background in Bioengineering. </br>
 🔭 With the desire to develop and deepen my knowledge on web development, I applied to the Front-End  Development course organized by Udemig. </br>
 🌱 I learned Html, Css,Sass-Scss, Bootstrap. Now, I'm improving my JavaScript proficiency during course. </br>
 👀 I'm always looking to grow my personal and professional network. </br>
