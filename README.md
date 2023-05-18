@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 💛
 
 ✨ I am a beginner Front-End Developer with a background in Bioengineering. </br>
 🔭 With the desire to develop and deepen my knowledge on web development, I applied to the Front-End  Development course organized by Udemig. </br>
